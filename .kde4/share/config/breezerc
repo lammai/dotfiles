@@ -1,0 +1,23 @@
+[Common]
+OutlineCloseButton=false
+OutlineCloseButton=false
+ShadowSize=ShadowMedium
+ShadowStrength=89
+ShadowStrength=89
+
+[Style]
+MenuOpacity=25
+
+[Windeco]
+ButtonSize=ButtonTiny
+DrawBackgroundGradient=false
+DrawBackgroundGradient=false
+DrawSizeGrip=true
+
+[Windeco Exception 0]
+BorderSize=0
+Enabled=true
+ExceptionPattern=.*
+ExceptionType=0
+HideTitleBar=true
+Mask=0
