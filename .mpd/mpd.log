@@ -297,3 +297,12 @@ Jul 09 18:01 : client: [3] opened from 127.0.0.1:59702
 Jul 09 18:01 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
 Jul 09 18:02 : player: played "nymano - romance - 09 lost & different.flac"
 Jul 09 19:13 : client: [3] closed
+Jul 18 23:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 23:30 : avahi: Service 'Music Player @ x230' successfully established.
+Jul 18 23:30 : client: [0] opened from 127.0.0.1:38390
+Jul 18 23:31 : client: [1] opened from 127.0.0.1:38394
+Jul 18 23:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 23:31 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 18 23:33 : player: played "nymano - romance - 11 i'll never know.flac"
+Jul 18 23:33 : client: [0] closed
+Jul 18 23:33 : client: [1] closed
