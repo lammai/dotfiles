@@ -1,0 +1,299 @@
+Feb 29 17:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 17:50 : exception: Failed to open '/home/liam/.mpd/mpdstate': No such file or directory
+Feb 29 17:50 : update: added /nymano - romance - 12 green tea.flac
+Feb 29 17:50 : update: added /nymano - romance - 03 beauty.flac
+Feb 29 17:50 : update: added /nymano - romance - 04 after a few drinks.flac
+Feb 29 17:50 : update: added /nymano - romance - 17 back to reality.flac
+Feb 29 17:50 : update: added /nymano - romance - 16 goodbye.flac
+Feb 29 17:50 : update: added /nymano - romance - 06 falling leaves.flac
+Feb 29 17:50 : update: added /nymano - romance - 02 truly happy.flac
+Feb 29 17:50 : update: added /nymano - romance - 10 far from u.flac
+Feb 29 17:50 : update: added /nymano - romance - 05 this girl.flac
+Feb 29 17:50 : update: added /nymano - romance - 08 skatepark blues.flac
+Feb 29 17:50 : update: added /nymano - romance - 11 i'll never know.flac
+Feb 29 17:50 : update: added /nymano - romance - 15 fishtail parka.flac
+Feb 29 17:50 : update: added /nymano - romance - 07 summer is gone (ft esne).flac
+Feb 29 17:50 : update: added /nymano - romance - 14 quand la pluie tombe.flac
+Feb 29 17:50 : update: added /nymano - romance - 18 stay(ft esne).flac
+Feb 29 17:50 : update: added /nymano - romance - 01 at home with you (ft faeriey).flac
+Feb 29 17:50 : update: added /nymano - romance - 13 outside the bar.flac
+Feb 29 17:50 : update: added /nymano - romance - 09 lost & different.flac
+Feb 29 17:50 : avahi: Service 'Music Player @ x230' successfully established.
+Feb 29 17:51 : client: [0] opened from 127.0.0.1:51030
+Feb 29 17:51 : client: [0] closed
+Feb 29 17:56 : client: [1] opened from 127.0.0.1:51038
+Feb 29 17:57 : client: [1] closed
+Feb 29 17:58 : client: [2] opened from 127.0.0.1:51042
+Feb 29 17:59 : client: [3] opened from 127.0.0.1:51046
+Feb 29 17:59 : client: [3] closed
+Feb 29 18:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 18:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 18:02 : player: played "nymano - romance - 09 lost & different.flac"
+Feb 29 18:05 : player: played "nymano - romance - 17 back to reality.flac"
+Feb 29 18:07 : player: played "nymano - romance - 18 stay(ft esne).flac"
+Feb 29 18:08 : client: [4] opened from 127.0.0.1:51058
+Feb 29 18:09 : player: played "nymano - romance - 09 lost & different.flac"
+Feb 29 18:11 : player: played "nymano - romance - 10 far from u.flac"
+Feb 29 18:13 : player: played "nymano - romance - 11 i'll never know.flac"
+Feb 29 18:15 : player: played "nymano - romance - 12 green tea.flac"
+Feb 29 18:18 : player: played "nymano - romance - 13 outside the bar.flac"
+Feb 29 18:20 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Feb 29 18:22 : player: played "nymano - romance - 15 fishtail parka.flac"
+Feb 29 18:22 : client: [4] closed
+Feb 29 18:22 : client: [2] closed
+Feb 29 18:22 : client: [5] opened from 127.0.0.1:51164
+Feb 29 18:24 : player: played "nymano - romance - 17 back to reality.flac"
+Feb 29 18:25 : player: played "nymano - romance - 18 stay(ft esne).flac"
+Feb 29 18:26 : client: [5] closed
+Feb 29 18:28 : client: [6] opened from 127.0.0.1:51172
+Feb 29 18:32 : client: [6] closed
+Feb 29 18:40 : client: [7] opened from 127.0.0.1:51216
+Feb 29 18:42 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Feb 29 18:44 : client: [7] closed
+Feb 29 18:44 : player: played "nymano - romance - 02 truly happy.flac"
+Feb 29 18:45 : client: [8] opened from 127.0.0.1:51274
+Feb 29 18:46 : player: played "nymano - romance - 03 beauty.flac"
+Feb 29 18:46 : client: [8] closed
+Feb 29 18:46 : client: [9] opened from 127.0.0.1:51278
+Feb 29 18:47 : client: [9] closed
+Feb 29 18:47 : client: [10] opened from 127.0.0.1:51282
+Feb 29 18:48 : player: played "nymano - romance - 04 after a few drinks.flac"
+Feb 29 18:48 : client: [11] opened from 127.0.0.1:51286
+Feb 29 18:52 : player: played "nymano - romance - 04 after a few drinks.flac"
+Feb 29 18:55 : player: played "nymano - romance - 05 this girl.flac"
+Feb 29 18:56 : player: played "nymano - romance - 06 falling leaves.flac"
+Feb 29 18:57 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+Feb 29 18:59 : client: [10] closed
+Feb 29 18:59 : client: [12] opened from 127.0.0.1:51324
+Feb 29 19:00 : player: played "nymano - romance - 10 far from u.flac"
+Feb 29 19:00 : player: played "nymano - romance - 03 beauty.flac"
+Feb 29 19:01 : player: played "nymano - romance - 10 far from u.flac"
+Feb 29 19:01 : client: [12] closed
+Feb 29 19:01 : client: [13] opened from 127.0.0.1:51358
+Feb 29 19:03 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Feb 29 19:06 : player: played "nymano - romance - 17 back to reality.flac"
+Feb 29 19:07 : player: played "nymano - romance - 15 fishtail parka.flac"
+Feb 29 19:09 : player: played "nymano - romance - 09 lost & different.flac"
+Feb 29 19:10 : player: played "nymano - romance - 06 falling leaves.flac"
+Feb 29 19:12 : player: played "nymano - romance - 05 this girl.flac"
+Feb 29 19:32 : player: played "nymano - romance - 10 far from u.flac"
+Feb 29 19:33 : player: played "nymano - romance - 10 far from u.flac"
+Feb 29 19:33 : client: [13] closed
+Feb 29 19:33 : client: [11] closed
+Feb 29 21:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 21:27 : avahi: Service 'Music Player @ x230' successfully established.
+Feb 29 21:27 : client: [0] opened from 127.0.0.1:53710
+Feb 29 21:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 21:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Feb 29 21:28 : client: [1] opened from 127.0.0.1:53714
+Feb 29 21:29 : player: played "nymano - romance - 11 i'll never know.flac"
+Feb 29 21:29 : client: [1] closed
+Feb 29 21:29 : client: [0] closed
+Mar 01 15:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 15:13 : avahi: Service 'Music Player @ x230' successfully established.
+Mar 01 15:13 : client: [0] opened from 127.0.0.1:43496
+Mar 01 15:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 15:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 15:14 : client: [1] opened from 127.0.0.1:43500
+Mar 01 15:16 : player: played "nymano - romance - 10 far from u.flac"
+Mar 01 15:18 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 01 15:21 : player: played "nymano - romance - 03 beauty.flac"
+Mar 01 15:24 : player: played "nymano - romance - 11 i'll never know.flac"
+Mar 01 15:26 : player: played "nymano - romance - 04 after a few drinks.flac"
+Mar 01 15:27 : player: played "nymano - romance - 06 falling leaves.flac"
+Mar 01 15:28 : player: played "nymano - romance - 08 skatepark blues.flac"
+Mar 01 15:29 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+Mar 01 15:31 : player: played "nymano - romance - 15 fishtail parka.flac"
+Mar 01 15:33 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Mar 01 15:35 : player: played "nymano - romance - 12 green tea.flac"
+Mar 01 15:37 : player: played "nymano - romance - 17 back to reality.flac"
+Mar 01 15:38 : player: played "nymano - romance - 16 goodbye.flac"
+Mar 01 15:41 : player: played "nymano - romance - 13 outside the bar.flac"
+Mar 01 15:44 : player: played "nymano - romance - 10 far from u.flac"
+Mar 01 15:45 : player: played "nymano - romance - 16 goodbye.flac"
+Mar 01 15:46 : player: played "nymano - romance - 06 falling leaves.flac"
+Mar 01 15:48 : player: played "nymano - romance - 05 this girl.flac"
+Mar 01 15:50 : player: played "nymano - romance - 18 stay(ft esne).flac"
+Mar 01 15:52 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Mar 01 15:54 : player: played "nymano - romance - 12 green tea.flac"
+Mar 01 15:56 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 01 15:58 : player: played "nymano - romance - 04 after a few drinks.flac"
+Mar 01 16:00 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Mar 01 16:02 : player: played "nymano - romance - 13 outside the bar.flac"
+Mar 01 16:04 : player: played "nymano - romance - 15 fishtail parka.flac"
+Mar 01 16:06 : player: played "nymano - romance - 03 beauty.flac"
+Mar 01 16:08 : player: played "nymano - romance - 02 truly happy.flac"
+Mar 01 16:10 : player: played "nymano - romance - 17 back to reality.flac"
+Mar 01 16:11 : player: played "nymano - romance - 08 skatepark blues.flac"
+Mar 01 16:12 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+Mar 01 16:14 : player: played "nymano - romance - 11 i'll never know.flac"
+Mar 01 16:43 : client: [1] closed
+Mar 01 16:43 : client: [0] closed
+Mar 01 22:07 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 22:07 : avahi: Service 'Music Player @ x230' successfully established.
+Mar 01 22:07 : client: [0] opened from 127.0.0.1:36680
+Mar 01 22:07 : update: added /02_Apocalypse_Please.flac
+Mar 01 22:07 : update: added /08_Hysteria.flac
+Mar 01 22:07 : update: added /10_Butterflies_amp_amp_Hurricanes.flac
+Mar 01 22:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 22:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 01 22:08 : client: [1] opened from 127.0.0.1:36684
+Mar 01 22:09 : player: played "02_Apocalypse_Please.flac"
+Mar 01 22:10 : player: played "02_Apocalypse_Please.flac"
+Mar 01 22:10 : player: played "08_Hysteria.flac"
+Mar 01 22:11 : player: played "02_Apocalypse_Please.flac"
+Mar 01 22:16 : player: played "02_Apocalypse_Please.flac"
+Mar 01 22:26 : player: played "08_Hysteria.flac"
+Mar 01 22:28 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 01 22:30 : player: played "nymano - romance - 05 this girl.flac"
+Mar 01 22:32 : player: played "nymano - romance - 03 beauty.flac"
+Mar 01 22:33 : player: played "nymano - romance - 16 goodbye.flac"
+Mar 01 22:36 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Mar 01 22:38 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Mar 01 22:39 : player: played "nymano - romance - 17 back to reality.flac"
+Mar 01 22:41 : player: played "nymano - romance - 10 far from u.flac"
+Mar 01 22:44 : player: played "nymano - romance - 12 green tea.flac"
+Mar 01 22:45 : player: played "nymano - romance - 11 i'll never know.flac"
+Mar 01 22:47 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+Mar 01 22:48 : player: played "nymano - romance - 08 skatepark blues.flac"
+Mar 01 22:50 : player: played "nymano - romance - 04 after a few drinks.flac"
+Mar 01 22:51 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 01 23:05 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 02 00:52 : client: [1] closed
+Mar 02 00:52 : client: [0] closed
+Mar 05 12:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:37 : avahi: Service 'Music Player @ x230' successfully established.
+Mar 05 12:37 : client: [0] opened from 127.0.0.1:50026
+Mar 05 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 05 12:39 : client: [0] closed
+Mar 05 12:39 : client: [1] opened from 127.0.0.1:50030
+Mar 05 12:39 : player: played "nymano - romance - 09 lost & different.flac"
+Mar 05 12:39 : player: played "nymano - romance - 05 this girl.flac"
+Mar 05 12:39 : client: [1] closed
+Apr 02 19:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 19:56 : avahi: Service 'Music Player @ x230' successfully established.
+Apr 02 19:56 : client: [0] opened from 127.0.0.1:51424
+Apr 02 19:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 19:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 02 20:01 : player: played "10_Butterflies_amp_amp_Hurricanes.flac"
+Apr 02 20:01 : client: [0] closed
+Apr 03 16:46 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 16:47 : avahi: Service 'Music Player @ x230' successfully established.
+Apr 03 16:47 : client: [0] opened from 127.0.0.1:54850
+Apr 03 16:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 16:47 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 03 16:48 : player: played "nymano - romance - 11 i'll never know.flac"
+Apr 03 16:51 : player: played "nymano - romance - 12 green tea.flac"
+Apr 03 16:52 : player: played "nymano - romance - 06 falling leaves.flac"
+Apr 03 16:54 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Apr 03 16:55 : client: [0] closed
+Apr 03 16:56 : client: [1] opened from 127.0.0.1:54870
+Apr 03 16:56 : player: played "nymano - romance - 13 outside the bar.flac"
+Apr 03 16:58 : player: played "nymano - romance - 02 truly happy.flac"
+Apr 03 17:00 : player: played "nymano - romance - 09 lost & different.flac"
+Apr 03 17:05 : player: played "10_Butterflies_amp_amp_Hurricanes.flac"
+Apr 03 17:07 : player: played "nymano - romance - 10 far from u.flac"
+Apr 03 17:09 : client: [1] closed
+Apr 03 17:09 : client: [2] opened from 127.0.0.1:54890
+Apr 03 17:09 : player: played "08_Hysteria.flac"
+Apr 03 17:09 : client: [2] closed
+Apr 06 00:36 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 00:36 : avahi: Service 'Music Player @ x230' successfully established.
+Apr 06 00:39 : client: [0] opened from 127.0.0.1:59354
+Apr 06 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 00:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 06 00:42 : player: played "nymano - romance - 09 lost & different.flac"
+Apr 06 00:43 : player: played "nymano - romance - 16 goodbye.flac"
+Apr 06 00:47 : player: played "02_Apocalypse_Please.flac"
+Apr 06 00:49 : player: played "nymano - romance - 04 after a few drinks.flac"
+Apr 06 00:51 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+Apr 06 00:53 : player: played "nymano - romance - 11 i'll never know.flac"
+Apr 06 00:57 : player: played "08_Hysteria.flac"
+Apr 06 00:59 : player: played "nymano - romance - 11 i'll never know.flac"
+Apr 06 01:03 : player: played "02_Apocalypse_Please.flac"
+Apr 06 01:05 : player: played "nymano - romance - 09 lost & different.flac"
+Apr 06 01:08 : player: played "nymano - romance - 13 outside the bar.flac"
+Apr 06 01:09 : player: played "nymano - romance - 06 falling leaves.flac"
+Apr 06 01:11 : player: played "nymano - romance - 05 this girl.flac"
+Apr 06 01:13 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Apr 06 01:15 : player: played "nymano - romance - 12 green tea.flac"
+Apr 06 01:16 : player: played "nymano - romance - 18 stay(ft esne).flac"
+Apr 06 01:18 : player: played "nymano - romance - 08 skatepark blues.flac"
+Apr 06 01:20 : player: played "nymano - romance - 04 after a few drinks.flac"
+Apr 06 01:21 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Apr 06 01:21 : client: [0] closed
+May 17 01:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 01:43 : avahi: Service 'Music Player @ x230' successfully established.
+May 17 01:43 : client: [0] opened from 127.0.0.1:44172
+May 17 01:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 01:44 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 17 01:44 : client: [1] opened from 127.0.0.1:44176
+May 17 01:45 : player: played "nymano - romance - 09 lost & different.flac"
+May 17 01:47 : player: played "nymano - romance - 08 skatepark blues.flac"
+May 17 01:49 : player: played "nymano - romance - 02 truly happy.flac"
+May 17 01:51 : player: played "nymano - romance - 13 outside the bar.flac"
+May 17 01:53 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+May 17 01:55 : player: played "nymano - romance - 15 fishtail parka.flac"
+May 17 02:15 : player: played "nymano - romance - 11 i'll never know.flac"
+May 17 02:17 : player: played "nymano - romance - 15 fishtail parka.flac"
+May 17 02:20 : player: played "08_Hysteria.flac"
+May 17 02:23 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+May 17 02:24 : player: played "nymano - romance - 18 stay(ft esne).flac"
+May 17 02:26 : player: played "nymano - romance - 10 far from u.flac"
+May 17 02:32 : player: played "10_Butterflies_amp_amp_Hurricanes.flac"
+May 17 02:33 : player: played "nymano - romance - 07 summer is gone (ft esne).flac"
+May 17 02:35 : player: played "nymano - romance - 11 i'll never know.flac"
+May 17 02:37 : player: played "nymano - romance - 04 after a few drinks.flac"
+May 17 02:38 : player: played "nymano - romance - 18 stay(ft esne).flac"
+May 17 02:40 : player: played "nymano - romance - 03 beauty.flac"
+May 17 02:42 : player: played "nymano - romance - 08 skatepark blues.flac"
+May 17 02:44 : player: played "nymano - romance - 13 outside the bar.flac"
+May 17 02:45 : player: played "nymano - romance - 06 falling leaves.flac"
+May 17 02:49 : player: played "02_Apocalypse_Please.flac"
+May 17 02:51 : player: played "nymano - romance - 02 truly happy.flac"
+May 17 02:53 : player: played "nymano - romance - 16 goodbye.flac"
+May 17 02:56 : player: played "08_Hysteria.flac"
+May 17 02:59 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+May 17 03:00 : player: played "nymano - romance - 15 fishtail parka.flac"
+May 17 03:02 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+May 17 03:05 : player: played "nymano - romance - 05 this girl.flac"
+May 17 03:07 : player: played "nymano - romance - 12 green tea.flac"
+May 17 03:09 : player: played "nymano - romance - 10 far from u.flac"
+May 17 03:11 : player: played "nymano - romance - 09 lost & different.flac"
+May 17 03:27 : client: [1] closed
+May 17 03:28 : client: [0] closed
+Jun 28 20:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 20:51 : avahi: Service 'Music Player @ x230' successfully established.
+Jun 28 20:51 : client: [0] opened from 127.0.0.1:54300
+Jun 28 20:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 20:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jun 28 20:53 : player: played "02_Apocalypse_Please.flac"
+Jun 28 20:53 : client: [0] closed
+Jun 29 17:43 : client: [1] opened from 127.0.0.1:54846
+Jun 29 17:43 : client: [1] closed
+Jun 29 17:43 : client: [2] opened from 127.0.0.1:54850
+Jun 29 17:44 : client: [2] closed
+Jun 29 17:44 : player: played "nymano - romance - 09 lost & different.flac"
+Jun 29 17:45 : client: [3] opened from 127.0.0.1:54854
+Jun 29 17:45 : player: played "02_Apocalypse_Please.flac"
+Jun 29 17:45 : client: [3] closed
+Jul 09 17:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 17:34 : avahi: Service 'Music Player @ x230' successfully established.
+Jul 09 17:34 : client: [0] opened from 127.0.0.1:59646
+Jul 09 17:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 17:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 09 17:36 : player: played "nymano - romance - 11 i'll never know.flac"
+Jul 09 17:41 : player: played "nymano - romance - 09 lost & different.flac"
+Jul 09 17:43 : player: played "nymano - romance - 14 quand la pluie tombe.flac"
+Jul 09 17:45 : client: [1] opened from 127.0.0.1:59670
+Jul 09 17:46 : player: played "nymano - romance - 09 lost & different.flac"
+Jul 09 17:53 : client: [1] closed
+Jul 09 17:53 : client: [2] opened from 127.0.0.1:59682
+Jul 09 17:59 : player: played "nymano - romance - 17 back to reality.flac"
+Jul 09 18:01 : client: [0] closed
+Jul 09 18:01 : client: [2] closed
+Jul 09 18:01 : client: [3] opened from 127.0.0.1:59702
+Jul 09 18:01 : player: played "nymano - romance - 01 at home with you (ft faeriey).flac"
+Jul 09 18:02 : player: played "nymano - romance - 09 lost & different.flac"
+Jul 09 19:13 : client: [3] closed

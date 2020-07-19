@@ -1,0 +1,32 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: stop
+current: 9
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:nymano - romance - 17 back to reality.flac
+1:nymano - romance - 01 at home with you (ft faeriey).flac
+2:nymano - romance - 02 truly happy.flac
+3:nymano - romance - 03 beauty.flac
+4:nymano - romance - 04 after a few drinks.flac
+5:nymano - romance - 05 this girl.flac
+6:nymano - romance - 06 falling leaves.flac
+7:nymano - romance - 07 summer is gone (ft esne).flac
+8:nymano - romance - 08 skatepark blues.flac
+9:nymano - romance - 09 lost & different.flac
+10:nymano - romance - 10 far from u.flac
+11:nymano - romance - 11 i'll never know.flac
+12:nymano - romance - 12 green tea.flac
+13:nymano - romance - 13 outside the bar.flac
+14:nymano - romance - 14 quand la pluie tombe.flac
+15:nymano - romance - 15 fishtail parka.flac
+16:nymano - romance - 16 goodbye.flac
+17:nymano - romance - 18 stay(ft esne).flac
+playlist_end
