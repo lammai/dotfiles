@@ -306,3 +306,7 @@ Jul 18 23:31 : exception: OutputThread could not get realtime scheduling, contin
 Jul 18 23:33 : player: played "nymano - romance - 11 i'll never know.flac"
 Jul 18 23:33 : client: [0] closed
 Jul 18 23:33 : client: [1] closed
+Jul 20 00:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Jul 20 00:21 : avahi: Service 'Music Player @ x230' successfully established.
+Jul 20 00:21 : client: [0] opened from 127.0.0.1:58516
+Jul 20 00:21 : client: [0] closed
