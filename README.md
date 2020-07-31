@@ -1,9 +1,9 @@
 # Dotfiles
 * * *
-Trying out bare repository to manage dotfiles.
+First time getting into ricing my desktop
 ## Manjaro rice
 Focusing on maximizing screen real estate because of small screen.   
-Can't get pywal working with konsole, so I manually pick my own color scheme and make my own wallpapers.
+All wallpapers made by me. Free to download & use.
    
 ![Rice](Pictures/Screenshots/Screenshot_20200718_232450.png)   
 ![Rice](Pictures/Screenshots/Screenshot_20200718_233340.png)
