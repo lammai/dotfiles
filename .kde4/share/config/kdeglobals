@@ -2,9 +2,9 @@
 Color=56,56,56
 ColorAmount=0
 ColorEffect=0
-ContrastAmount=0.65
+ContrastAmount=0.7000000000000001
 ContrastEffect=1
-IntensityAmount=0.1
+IntensityAmount=0.65
 IntensityEffect=2
 
 [ColorEffects:Inactive]
@@ -113,7 +113,7 @@ toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
 [Icons]
-Theme=candy-icons
+Theme=Sweet-Blue
 
 [KDE]
 ShowIconsInMenuItems=true
