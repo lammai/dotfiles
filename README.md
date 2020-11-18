@@ -5,8 +5,8 @@ This is where I keep my current rice and 3D renders
 ![spooky](Pictures/Wallpapers/spooky.png)
 ![nightwalk](Pictures/Wallpapers/nightwalk-final-edited.jpg)   
 ![fog2020](Pictures/Wallpapers/Fog2020-edited.jpg)   
-![cardistry](Pictures/Wallpapers/cardistry2077.png)   
 ![outofplace](Pictures/Wallpapers/outofplace-edited.jpg)   
+![cardistry](Pictures/Wallpapers/cardistry2077.png)   
 * * *
 ## Manjaro rice
 Focusing on maximizing screen real estate because of small screen.   
