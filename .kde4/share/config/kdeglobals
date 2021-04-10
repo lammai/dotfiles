@@ -105,11 +105,11 @@ ForegroundVisited=76,99,125
 [General]
 ColorScheme=Aritim-Dark
 Name=Aritim-Dark
-font=Noto Sans,10,-1,5,50,0,0,0,0,0
-menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0
+font=JetBrains Mono,10,-1,5,50,0,0,0,0,0
+menuFont=JetBrains Mono,10,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0
-toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0
+smallestReadableFont=JetBrains Mono Light,8,-1,5,25,0,0,0,0,0,Regular
+toolBarFont=JetBrains Mono,9,-1,5,50,0,0,0,0,0
 widgetStyle=Breeze
 
 [Icons]
