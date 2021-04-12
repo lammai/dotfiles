@@ -1,4 +1,4 @@
-"General
+"   General
 syntax on
 set number			" Show line numbers
 set relativenumber
@@ -14,7 +14,9 @@ set shiftwidth=4		" Number of auto-indent spaces
 set smartindent			" Enable smart-indent
 set smarttab			" Enable smart-tabs
 set softtabstop=4		" Number of spaces per Tab
-" Advanced
+set nocompatible
+
+"   Advanced
 set ruler			" Show row and column ruler information
 set undolevels=1000		" Number of undo levels
 set backspace=indent,eol,start " Backspace behaviour 
@@ -24,15 +26,15 @@ call plug#begin()
 Plug 'ternjs/tern_for_vim'
 Plug 'ycm-core/YouCompleteMe'
 Plug 'vim-airline/vim-airline'
-Plug 'morhetz/gruvbox'
 Plug 'scrooloose/nerdtree'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'arcticicestudio/nord-vim'
+Plug 'vimsence/vimsence'
+Plug 'pangloss/vim-javascript'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 
-"   Settings
-colorscheme gruvbox
-let g:gruvbox_transparent_bg=1
-let g:gruvbox_contrast_dark="soft"
+colorscheme nord
 
 "   Mappings
 nmap <F6> :NERDTreeToggle<CR>
