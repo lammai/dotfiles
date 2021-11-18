@@ -8,6 +8,9 @@ This is where I keep my current rice and 3D renders
 ![outofplace](Pictures/Wallpapers/outofplace-edited.jpg)   
 ![cardistry](Pictures/Wallpapers/cardistry2077.png)   
 * * *
+## Arch rice
+![Rice](Pictures/Screenshots/vkjz9bgy8jv71.png)   
+   
 ## Manjaro rice
 Focusing on maximizing screen real estate because of small screen.   
 All wallpapers made by me. Free to download & use.
